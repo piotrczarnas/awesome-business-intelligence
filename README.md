@@ -196,7 +196,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [DataKitchen](https://datakitchen.io/)
-    - [DQO](https://dqo.ai)
+    - [DQOps](https://dqops.cpm/)
     - [Elementary](https://github.com/elementary-data/elementary)
     - [Monosi](https://www.monosi.dev)
 
